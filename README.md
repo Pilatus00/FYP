@@ -1,2 +1,2 @@
 # FYP
-Code for final year project
+Code, figures and data for FYP
